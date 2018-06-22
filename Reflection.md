@@ -10,5 +10,5 @@ In this project we use the PID controller to maneuver the vehicle around the lak
 
 I used only P and D parameters as initial bias in the simulator is expected to be quite low and increases the calculation time when it was taken into account.
 
-**2. Hyperparameters tuning **
-* 
+** 2. Hyperparameters tuning **
+* I used twiddle algorithm which was that was presented in the lessons to optimize my parameters and reduce the cross track error. The car henceforth was able to drive safely around the track without going out of the road. 

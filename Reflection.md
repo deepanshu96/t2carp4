@@ -13,3 +13,5 @@ I used only P and D parameters as initial bias in the simulator is expected to b
 **2. Hyperparameters tuning**
 
 * I used twiddle algorithm which was that was presented in the lessons to optimize my parameters and reduce the cross track error. The car henceforth was able to drive safely around the track without going out of the road. 
+
+Due to large amount of computations, the video could not be recorded as the simulator was not running smoothly and also calculatons were performed erroneously. 
